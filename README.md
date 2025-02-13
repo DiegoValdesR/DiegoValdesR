@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi 👋
+
+*Diego Alejandro Valdés Rentería* 
+
+**He/Him**
+
+WELCOME TO MY **PROFILE**
+
+I´m just a programming student trying to understand how to make a living with this.
+
+- 19 years old (**currently**)
+- Currently working on a Web Pokedex with the **Pokemon API**
+
+
 
 <!--
 **DiegoValdesR/DiegoValdesR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
